@@ -20,3 +20,7 @@ To open the notebook, you can use the following command:
 ```
 jupyter notebook Script.ipynb
 ```
+
+## Viewing method presentation
+
+The PowerPoint slides explaining the methods we use in Assignment 2 and 3 are `Presentation_assignment2.pptx` and `Assignment3_presentation.pptx`, respectively.
