@@ -23,4 +23,4 @@ jupyter notebook Script.ipynb
 
 ## Viewing method presentation
 
-The PowerPoint slides explaining the methods we use in Assignment 2 and 3 are `Presentation_assignment2.pptx` and `Assignment3_presentation.pptx`, respectively.
+The PowerPoint slides explaining the methods we use in Assignment 2, 3, and 4 are `Presentation_assignment2.pptx`, `Assignment3_presentation.pptx`, and `Assignment4_presentation.pdf`, respectively.
